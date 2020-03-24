@@ -12,7 +12,7 @@ with open(os.path.join(this_directory, 'README.md')) as f:
     long_description = f.read()
 
 setup(name='python_dtp',
-      version='0.9.2',
+      version='0.9.3',
       description='Python implementation of distributed transaction processing with MySQL, MySQLdb',
       author='yueshuaijie',
       author_email='ysj@love.com',
